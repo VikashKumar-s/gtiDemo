@@ -20,4 +20,9 @@ public class AppiumTest {
 	{
 		System.out.println("Test1");
 	}
+	
+	public void Test1()
+	{
+		System.out.println("Test2");
+	}
 }
