@@ -23,6 +23,11 @@ public class AppiumTest {
 	
 	public void Test1()
 	{
+		System.out.println("Test1");
+	}
+	
+	public void Test2()
+	{
 		System.out.println("Test2");
 	}
 }
