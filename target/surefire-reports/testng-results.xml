@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="49" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="49" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+      <class name="seleniumProject.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:seleniumProject.MavenJava.SeleniumTest@6e6c3152]" name="BrowserAutomation" duration-ms="0" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:seleniumProject.MavenJava.SeleniumTest@6e6c3152]" name="elementsUi" duration-ms="0" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- seleniumProject.MavenJava.SeleniumTest -->
+      <class name="seleniumProject.MavenJava.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwiter()[pri:0, instance:seleniumProject.MavenJava.RESTAPITest@6ebc05a6]" name="deleteTwiter" duration-ms="0" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwiter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:seleniumProject.MavenJava.RESTAPITest@6ebc05a6]" name="postJira" duration-ms="0" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- seleniumProject.MavenJava.RESTAPITest -->
+      <class name="seleniumProject.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:seleniumProject.MavenJava.AppiumTest@3dd4520b]" name="IOSApps" duration-ms="16" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeApAndroid()[pri:0, instance:seleniumProject.MavenJava.AppiumTest@3dd4520b]" name="NativeApAndroid" duration-ms="1" started-at="2022-06-17T13:54:02 IST" finished-at="2022-06-17T13:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApAndroid -->
+      </class> <!-- seleniumProject.MavenJava.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
