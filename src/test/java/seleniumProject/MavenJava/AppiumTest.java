@@ -15,4 +15,8 @@ public class AppiumTest {
 		// TODO Auto-generated method stub
 		System.out.println("IOSApps");
 	}
+	
+	public static void main(String[] args) {
+		
+	}
 }
